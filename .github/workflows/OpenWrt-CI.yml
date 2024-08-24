@@ -21,7 +21,7 @@ on:
 #  schedule:                                                    # 自动编译时间表
 #    - cron: 5 * * * *  
   watch:
-    types: [started]]
+    types: [started]
     
 jobs:
 
